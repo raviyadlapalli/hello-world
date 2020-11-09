@@ -1,2 +1,4 @@
 # hello-world
-Devops Hello World :)
+Hello Humans!
+Welcome to Devops and welcome to Github
+
